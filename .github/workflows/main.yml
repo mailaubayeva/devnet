@@ -1,6 +1,6 @@
 name: Python CI
 
-on: [watch]
+on: [push]
   
 env:
   AZURE_WEBAPP_NAME: my-web-app # set this to your application's name
